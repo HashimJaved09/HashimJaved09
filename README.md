@@ -1,6 +1,5 @@
 ### Hi there 👋
-🔭 I’m currently working on Article Review System - Oprovi in Flask & Mongo (Bulma CSS)
-🔭 Also working on Integration of DigitalPersona FingerPrint Device with C#
+🔭 I’m currently working on Article Review System - Oprovi in Flask & Mongo (Bulma CSS), also working on Integration of DigitalPersona Biometric Device with C#
 <!--
 **HashimJaved09/HashimJaved09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
