@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on Article Review System - Oprovi in Flask & Mongo (Bulma CSS), also working on Integration of DigitalPersona Biometric Device with C#
 - 🌱 I’m currently learning C# Entity Framework
 - 📫 How to reach me: You can reach me on my email anytime: 📧 hashim.haved.581@gmail.com
+- :hourglass: My past experiences are Python Django, PostgreSQL, MS SQL, SQLlite, Angular 2+, React JS, C#
 <!--
 **HashimJaved09/HashimJaved09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
