@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Article Review System - Oprovi in Flask & Mongo (Bulma CSS), also working on Integration of DigitalPersona Biometric Device with C#
+- In the recent past, I have worked on a web application myReplay.co, which records the plays of futsol and the users can share their best shots.
+- 🔭 I’ve recently working on Article Review System - Oprovi in Flask & Mongo (Bulma CSS), also working on Integration of DigitalPersona Biometric Device with C#.
 - 🌱 I’m currently learning C# Entity Framework
 - 📫 How to reach me: You can reach me on my email anytime: 📧 hashim.haved.581@gmail.com
 - :hourglass: My past experiences are Python Django, PostgreSQL, MS SQL, SQLlite, Angular 2+, React JS, C#
